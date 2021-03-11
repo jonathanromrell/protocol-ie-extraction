@@ -35,6 +35,8 @@
 
                  ;non-template dependencies
                  [pdfboxing "0.1.14"]
+                 [net.sf.cssbox/pdf2dom "2.0.0"]
+                 [pdf-transforms "0.1.0"]
                  ]
 
   :min-lein-version "2.0.0"
